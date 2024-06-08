@@ -51,8 +51,7 @@ python evaluate_model.py
 
 ## Author
 
-[Your Name]
-
+Adam Lauz
 ---
 
 Feel free to customize the README according to your specific project details and requirements. Let me know if you need further assistance!
